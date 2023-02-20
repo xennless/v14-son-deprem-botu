@@ -3,6 +3,7 @@
 # Discord Deprem Uygulaması
 
 Discord v14 ile yapılan son deprem duyuru botu, Discord platformundaki kullanıcılar tarafından kullanılan v14 sürümü kullanılarak oluşturulmuş bir yazılımdır. Bu bot, kullanıcılara TÜRKİYE'de olan son depremler ile ilgili bilgi verir!.
+API Sistemi olarak https://www.orhanaydogdu.com.tr kullanıyorum. API sistemini herkese açık bir şekilde kullandırtığı için teşekkür ederim!
 
 
 
